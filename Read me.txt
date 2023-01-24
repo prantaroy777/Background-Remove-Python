@@ -1,0 +1,9 @@
+in the "version_1" file you will need some pretrained model. after executing the code it should download the code
+automatically, if it doesn't download the model file from 
+
+here : https://drive.google.com/drive/folders/19PhZCdlOuDOdV_0uxFGsp-O6t0FcGRrN?usp=share_link
+
+then keep the file in C:\Users\proyr\.u2net
+here "proyr" is my directory name.
+
+enjoy!!! :-)
